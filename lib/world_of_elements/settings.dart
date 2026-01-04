@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:sharkpad/world_of_elements/notify.dart';
+import 'notify.dart';
 
 class Settings extends StatefulWidget {
   const Settings({super.key});
